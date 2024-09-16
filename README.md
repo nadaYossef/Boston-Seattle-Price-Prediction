@@ -1,7 +1,7 @@
 # **House Price Prediction For Boston vs Seattle for Airbnb**
 ![5ea352e7f5d12a296913bc52_1_AkY4Z8IN-byq7ecW9YHTIw](https://github.com/user-attachments/assets/143dc4a5-6005-4d40-9277-ef3b3c476cf1)
 
-
+My medium post : https://medium.com/@nadaayoussef.202/unlocking-the-secrets-of-airbnb-pricing-in-boston-and-seattle-a-data-science-journey-ad03a178a15c
 ## Overview
 
 This project aims to predict the prices of Airbnb listings in Boston and Seattle using various machine learning models. The project is part of the Udacity Data Science Nanodegree program.
