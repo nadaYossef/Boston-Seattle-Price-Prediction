@@ -35,6 +35,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
   - `seattle.csv`: Seattle Airbnb data.
   - `boston.csv`: Boston Airbnb data.
 - `notebooks/`: Jupyter notebooks for data exploration and model building.
+    - Udacity_BS_project.ipynb
 - `README.md`: This file, providing an overview of the project.
 
 ## Techniques and Algorithms
